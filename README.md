@@ -34,7 +34,7 @@ dataset.head()
 dataset.tail()
 ```
 
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/e9d0298f-1063-4cfe-a9a2-ddd8048233ea">
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/e9d0298f-1063-4cfe-a9a2-ddd8048233ea">
 
 ```
 dataset.info()
@@ -129,7 +129,7 @@ dataset=LogisticRegression()
 dataset.fit(x_train,y_train)
 ```
 
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/d7d097bc-32f8-496f-b582-b5d63c9d51b4">
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/d7d097bc-32f8-496f-b582-b5d63c9d51b4">
 
 ```
 y_pred=dataset.predict(x_test)
