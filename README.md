@@ -34,7 +34,7 @@ dataset.head()
 dataset.tail()
 ```
 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/e9d0298f-1063-4cfe-a9a2-ddd8048233ea">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e9d0298f-1063-4cfe-a9a2-ddd8048233ea">
 
 ```
 dataset.info()
