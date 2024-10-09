@@ -47,7 +47,7 @@ dataset=dataset.drop(['sl_no'],axis=1)
 dataset.info()
 ```
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/a83ea31d-c444-4325-8355-1564aaa71d60">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/a83ea31d-c444-4325-8355-1564aaa71d60">
 
 ```
 dataset["gender"]=dataset["gender"].astype('category')
@@ -64,7 +64,7 @@ dataset["hsc_s"]=dataset["hsc_s"].astype('category')
 dataset.info()
 ```
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/285591ed-1310-4f11-bd75-1ec2edd14c5d">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/285591ed-1310-4f11-bd75-1ec2edd14c5d">
 
 ```
 dataset["gender"]=dataset["gender"].cat.codes
