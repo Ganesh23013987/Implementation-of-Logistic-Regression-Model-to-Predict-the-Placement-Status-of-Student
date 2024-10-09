@@ -32,7 +32,7 @@ dataset.head()
 dataset.tail()
 ```
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/e9d0298f-1063-4cfe-a9a2-ddd8048233ea">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/e9d0298f-1063-4cfe-a9a2-ddd8048233ea">
 
 ```
 dataset.info()
@@ -85,7 +85,7 @@ dataset.info()
 dataset.head()
 ```
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/8ef7cf84-d8b5-425a-bab8-4263389c46e1">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/8ef7cf84-d8b5-425a-bab8-4263389c46e1">
 
 ```
 x=dataset.iloc[:,:-1].values
@@ -127,7 +127,7 @@ dataset=LogisticRegression()
 dataset.fit(x_train,y_train)
 ```
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/d7d097bc-32f8-496f-b582-b5d63c9d51b4">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/d7d097bc-32f8-496f-b582-b5d63c9d51b4">
 
 ```
 y_pred=dataset.predict(x_test)
